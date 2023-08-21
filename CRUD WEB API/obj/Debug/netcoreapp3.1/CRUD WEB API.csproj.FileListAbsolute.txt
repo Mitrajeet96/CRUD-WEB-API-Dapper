@@ -1,0 +1,27 @@
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\CRUD WEB API.exe
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\CRUD WEB API.deps.json
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\CRUD WEB API.runtimeconfig.json
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\CRUD WEB API.runtimeconfig.dev.json
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\CRUD WEB API.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\CRUD WEB API.pdb
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.csproj.AssemblyReference.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.AssemblyInfoInputs.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.AssemblyInfo.cs
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.csproj.CoreCompileInputs.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\staticwebassets\CRUD WEB API.StaticWebAssets.Manifest.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.RazorTargetAssemblyInfo.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.pdb
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.genruntimeconfig.cache
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\CRUD WEB API\CRUD WEB API\obj\Debug\netcoreapp3.1\CRUD WEB API.csproj.CopyComplete
